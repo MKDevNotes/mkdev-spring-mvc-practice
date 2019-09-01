@@ -3,13 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="8210709a-f476-45cc-bc4b-afb834069b17" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dn/simplejettyweb/servlet/DnSimpleJettyServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dn/simplejettyweb/servlet/DnSimpleJettyServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/dn-jetty-simple-webapp.war" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/dn-jetty-simple-webapp/WEB-INF/classes/com/dn/simplejettyweb/servlet/DnSimpleJettyServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/dn-jetty-simple-webapp/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/dn-jetty-simple-webapp/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/work/jsp/org/apache/jsp/index_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/dn-jetty-simple-webapp.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/dn-jetty-simple-webapp.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../dn-spring-jetty-web-example/.idea/compiler.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../dn-spring-jetty-web-example/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../dn-spring-jetty-web-example/.idea/libraries/Maven__org_eclipse_jetty_jetty_http_9_4_12_v20180830.xml" beforeDir="false" />
@@ -50,7 +45,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/dn/simplejettyweb/servlet/DnSimpleJettyServlet.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
@@ -59,11 +54,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+            <state relative-caret-position="277">
+              <caret line="36" column="33" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -86,8 +81,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/dn/simplejettyweb/servlet/DnSimpleJettyServlet.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -227,17 +222,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/dn/simplejettyweb/servlet/DnSimpleJettyServlet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="36" column="33" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
         </state>
       </provider>
     </entry>
