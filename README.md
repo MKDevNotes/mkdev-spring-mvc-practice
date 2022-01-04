@@ -1,6 +1,9 @@
 # mkdev-spring-mvc-practice
 
-
+dn-jetty-simple-webapp -
+    mvn clean install
+    mvn jetty:run
+    
 For Tomcat Run in Command Line
 Build the project
 
